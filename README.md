@@ -211,12 +211,12 @@ const aaron = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaronWilliamsJA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4B4B&icon_color=FF6B35&text_color=c9d1d9&ring_color=FF4B4B" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AaronWilliamsJA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4B4B&icon_color=FF6B35&text_color=c9d1d9&ring_color=FF4B4B" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronWilliamsJA&theme=radical&hide_border=true&background=0d1117&stroke=FF4B4B&ring=FF4B4B&fire=FFA500&currStreakLabel=FF6B35&sideLabels=FF4B4B&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronWilliamsJA&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4B4B&text_color=c9d1d9&langs_count=8" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AaronWilliamsJA&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4B4B&text_color=c9d1d9&langs_count=8" />
 
 <br/><br/>
 
@@ -233,6 +233,8 @@ const aaron = {
 <div align="center">
 
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=AaronWilliamsJA&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+<!-- Fallback: If trophies don't load, the service may be rate-limited. Consider self-hosting. -->
 
 </div>
 
