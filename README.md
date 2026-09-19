@@ -1,289 +1,97 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,50:FF6B35,100:FFA500&height=220&section=header&text=Aaron%20Williams%20JA&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Founder%20%40%20Tamizha%20Productions%20Scripters&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1f2e&height=160&section=header&text=Aaron%20Williams%20JA&fontSize=42&fontColor=E6EDF3&fontAlignY=42&desc=Founder%20%26%20Lead%20Developer%20%E2%80%94%20Build%20Right's%20Studios&descSize=16&descAlignY=68&descColor=FF4B4B" />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+FiveM+Developer+%7C+Full+Stack+Engineer+%7C+Cyber+Security;%F0%9F%9A%80+Building+next-gen+roleplay+experiences" />
-</a>
+**FiveM Systems Developer · Full Stack Engineer · Cyber Security (BCA)**
 
-<br/>
-
-<!-- SOCIAL BADGES -->
-[![Gmail](https://img.shields.io/badge/Gmail-aaronwilliams.ja-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronwilliams.ja@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AaronWilliamsJA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaronWilliamsJA)
-[![Discord](https://img.shields.io/badge/Discord-Tamizha_Productions-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF4B4B?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/AaronWilliamsJA)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=AaronWilliamsJA&label=Profile+Views&color=FF4B4B&style=flat-square&abbreviated=true" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/AaronWilliamsJA?label=Followers&style=flat-square&color=FF4B4B&labelColor=1a1a2e" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/AaronWilliamsJA?label=Total+Stars&style=flat-square&color=FF4B4B&labelColor=1a1a2e&affiliations=OWNER" />
+[![Email](https://img.shields.io/badge/Email-aaronwilliams.ja%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=FF4B4B)](mailto:aaronwilliams.ja@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AaronWilliamsJA-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/AaronWilliamsJA)
 
 </div>
-
-<br/>
-
-<!-- ABOUT SECTION -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
-
-```js
-const aaron = {
-    pronouns: "he" | "him",
-    role: "Founder & Lead Developer",
-    company: "Build Right's Studios",
-    education: "BCA — Cyber Security",
-    
-    code: ["Lua", "JavaScript", "TypeScript", "Python", "SQL"],
-    frameworks: ["React", "Next.js", "Node.js", "Express", "Electron"],
-    gamedev: ["FiveM", "ESX Framework", "ox_lib", "CFX Native API"],
-    infrastructure: ["Docker", "Linux", "Nginx", "PM2"],
-    databases: ["MySQL", "MongoDB", "Redis"],
-    
-    architecture: {
-        frontend: ["SPA", "SSR", "NUI (FiveM)"],
-        backend: ["REST APIs", "WebSocket", "Microservices"],
-        gameServers: ["Resource Management", "Anti-Cheat", "Dispatch Systems"],
-        devOps: ["CI/CD", "Containerization", "Server Hardening"]
-    },
-    
-    currentFocus: "Building scalable FiveM ecosystems & real-time platforms",
-    funFact: "I debug FiveM scripts at 3 AM and call it 'research'"
-};
-```
-
-<br/>
-
-<!-- WHAT I DO -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> &nbsp;What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 FiveM Development
-> Crafting immersive roleplay experiences with custom frameworks, advanced dispatch systems, and optimized server architectures. Deep expertise in ESX, ox_lib, and native CFX development.
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Full Stack Engineering
-> Building production-grade web applications with React/Next.js frontends, Node.js backends, and real-time communication layers using WebSocket and Server-Sent Events.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Cyber Security
-> Pursuing BCA in Cyber Security — applying security-first principles to every project. From server hardening to secure API design, security isn't an afterthought.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ Infrastructure & DevOps
-> Managing hosting infrastructure with Docker, Linux servers, Nginx reverse proxies, and automated deployment pipelines for zero-downtime releases.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- TECH STACK -->
-## 🛠️ &nbsp;Tech Arsenal
-
-<div align="center">
-
-### Languages
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Databases & Infrastructure
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- FEATURED PROJECTS -->
-## 🏆 &nbsp;Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🎮 Helix Roleplay</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Active-00C853?style=flat-square" />
-<img src="https://img.shields.io/badge/FiveM-ESX-FF4B4B?style=flat-square" />
-</p>
-<p align="center"><strong>Community-Driven FiveM Roleplay Server</strong></p>
-<p align="center">A fully custom FiveM server built on ESX framework featuring proprietary systems for economy, jobs, vehicles, and player interaction. Optimized for 200+ concurrent players with sub-2ms resource times.</p>
-<p align="center">
-<code>Lua</code> · <code>ESX</code> · <code>MySQL</code> · <code>ox_lib</code>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">📟 Pager App</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Production-00C853?style=flat-square" />
-<img src="https://img.shields.io/badge/Platform-Web-2196F3?style=flat-square" />
-</p>
-<p align="center"><strong>Real-Time Incident & Alert Management</strong></p>
-<p align="center">Enterprise-grade paging system with real-time WebSocket notifications, role-based access control, incident escalation workflows, and cross-platform push notifications for emergency response teams.</p>
-<p align="center">
-<code>React</code> · <code>Node.js</code> · <code>WebSocket</code> · <code>MongoDB</code>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">📢 TeamCast</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Active-00C853?style=flat-square" />
-<img src="https://img.shields.io/badge/Platform-Desktop-9C27B0?style=flat-square" />
-</p>
-<p align="center"><strong>Company-Wide Broadcasting Platform</strong></p>
-<p align="center">Electron-based desktop application for internal company broadcasts with real-time messaging, announcement scheduling, team segmentation, and delivery analytics dashboard.</p>
-<p align="center">
-<code>Electron</code> · <code>React</code> · <code>Node.js</code> · <code>Redis</code>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🚔 Dispatch System</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Active-00C853?style=flat-square" />
-<img src="https://img.shields.io/badge/Platform-Multi-FF6F00?style=flat-square" />
-</p>
-<p align="center"><strong>Multi-Platform Emergency Communication</strong></p>
-<p align="center">Advanced CAD/MDT dispatch system with live GPS tracking, unit status management, call prioritization, and seamless integration with FiveM game servers for immersive emergency roleplay.</p>
-<p align="center">
-<code>Next.js</code> · <code>TypeScript</code> · <code>WebSocket</code> · <code>MySQL</code>
-</p>
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<!-- GITHUB STATS -->
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AaronWilliamsJA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4B4B&icon_color=FF6B35&text_color=c9d1d9&ring_color=FF4B4B" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronWilliamsJA&theme=radical&hide_border=true&background=0d1117&stroke=FF4B4B&ring=FF4B4B&fire=FFA500&currStreakLabel=FF6B35&sideLabels=FF4B4B&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AaronWilliamsJA&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4B4B&text_color=c9d1d9&langs_count=8" />
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AaronWilliamsJA&custom_title=Aaron's%20Contribution%20Graph&bg_color=0d1117&color=FF4B4B&line=FF6B35&point=FFA500&area_color=FF4B4B&area=true&hide_border=true&title_color=FF4B4B" />
-
-</div>
-
-<br/>
-
-<!-- TROPHIES -->
-## 🏅 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=AaronWilliamsJA&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-<!-- Fallback: If trophies don't load, the service may be rate-limited. Consider self-hosting. -->
-
-</div>
-
-<br/>
-
-<!-- CURRENT FOCUS -->
-## 🎯 &nbsp;Current Focus
-
-```
-🔥  Scaling Helix Roleplay to 500+ concurrent players
-🚔  Building next-gen dispatch with AI-powered call routing  
-💻  Electron apps with native performance & offline support
-🌐  Multi-region hosting infrastructure with edge caching
-📡  Real-time event streaming architecture
-🛡️  Implementing zero-trust security models
-```
-
-<br/>
-
-<!-- SPOTIFY / QUOTE -->
-<div align="center">
 
 ---
 
-<br/>
+### About
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build.%20Improve.%20Deploy.%20Repeat.&author=Aaron%20Williams%20JA" />
+I lead development at **Build Right's Studios**, where we build roleplay infrastructure for FiveM and real-time web platforms for the teams around it. My work spans game-server scripting, full stack web applications, and the Linux infrastructure that runs them.
 
-<br/>
+I'm completing a BCA in Cyber Security, and I apply that background to everything I ship: least-privilege access, hardened servers, and APIs designed with abuse in mind from day one.
 
-### 💬 Let's Build Something Extraordinary
+- **Currently:** scaling Helix Roleplay toward 500+ concurrent players
+- **Building:** a next-generation CAD/MDT dispatch platform with intelligent call routing
+- **Exploring:** event-streaming architectures and zero-trust network design
+
+---
+
+### Core Expertise
+
+| Area | Focus |
+|---|---|
+| **FiveM Development** | Custom ESX resources, ox_lib, CFX natives, NUI interfaces, server-side anti-cheat, resource performance tuning |
+| **Full Stack Engineering** | React / Next.js frontends, Node.js / Express APIs, WebSocket and SSE real-time layers, Electron desktop apps |
+| **Security** | Server hardening, secure API design, role-based access control, threat modelling |
+| **Infrastructure** | Docker, Linux, Nginx reverse proxies, PM2, CI/CD pipelines, zero-downtime deployments |
+
+---
+
+### Technology
 
 <p>
-Whether it's a FiveM server, a real-time platform, or a security-hardened infrastructure — I'm always open to collaborating on projects that push boundaries.
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-[![Email Me](https://img.shields.io/badge/📧_Let's_Talk-aaronwilliams.ja@gmail.com-FF4B4B?style=for-the-badge)](mailto:aaronwilliams.ja@gmail.com)
+---
 
+### Selected Work
+
+**Helix Roleplay** &nbsp;·&nbsp; `Lua` `ESX` `ox_lib` `MySQL`
+A fully custom FiveM roleplay server with proprietary economy, job, vehicle and interaction systems. Engineered for 200+ concurrent players while keeping resource times under 2 ms.
+
+**Dispatch System** &nbsp;·&nbsp; `Next.js` `TypeScript` `WebSocket` `MySQL`
+A CAD/MDT platform with live unit tracking, status management and call prioritisation, integrated directly with FiveM game servers.
+
+**Pager** &nbsp;·&nbsp; `React` `Node.js` `WebSocket` `MongoDB`
+A real-time incident and alerting system with role-based access control, escalation workflows and cross-platform push notifications for response teams.
+
+**TeamCast** &nbsp;·&nbsp; `Electron` `React` `Node.js` `Redis`
+An internal broadcasting desktop app with scheduled announcements, team segmentation and delivery analytics.
+
+---
+
+### GitHub Activity
+
+<div align="center">
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AaronWilliamsJA&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E6EDF3&icon_color=FF4B4B&text_color=8B949E&hide_rank=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AaronWilliamsJA&layout=compact&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=8B949E&langs_count=6" />
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaboration on FiveM systems, real-time platforms and security-focused infrastructure.**
 <br/>
-
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaronWilliamsJA/AaronWilliamsJA/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaronWilliamsJA/AaronWilliamsJA/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AaronWilliamsJA/AaronWilliamsJA/output/github-snake-dark.svg" />
-</picture>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,50:FF6B35,100:FFA500&height=120&section=footer" />
+Reach me at [aaronwilliams.ja@gmail.com](mailto:aaronwilliams.ja@gmail.com)
 
 </div>
