@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1f2e&height=160&section=header&text=Aaron%20Williams%20JA&fontSize=42&fontColor=E6EDF3&fontAlignY=42&desc=Founder%20%26%20Lead%20Developer%20%E2%80%94%20Build%20Right%20Studios&descSize=16&descAlignY=68&descColor=FF4B4B" />
 
-**FiveM Systems Developer · Full Stack Developer · BCA Cybersecurity student**
+**FiveM & RedM Server Developer · Full Stack Developer · BCA Cybersecurity student**
 
 [![Website](https://img.shields.io/badge/Website-aaronwilliams.in-0d1117?style=flat-square&logo=googlechrome&logoColor=FF4B4B)](https://www.aaronwilliams.in)
 [![Email](https://img.shields.io/badge/Email-aaronwilliams.ja%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=FF4B4B)](mailto:aaronwilliams.ja@gmail.com)
@@ -14,7 +14,7 @@
 
 ### About
 
-I run development at **Build Right Studios** in Bangalore. I built the **Helix Roleplay** FiveM server, and most of my work now is **Madura Scripts**, a catalogue of 50+ FiveM resources for Qbox, QBCore and ESX servers. Alongside that I build Discord bots, including **Flawless**, a security bot that protects servers against nukes, raids and abuse, plus the web and desktop tools that communities and teams rely on.
+I run development at **Build Right Studios** in Bangalore. I've built three roleplay servers: **Helix Roleplay** and **Vagos Roleplay** on FiveM, and **Zamorin Roleplay** on RedM. Most of my work now is **Madura Scripts**, a catalogue of 50+ FiveM resources for Qbox, QBCore and ESX servers. Alongside that I build Discord bots, including **Flawless**, a security bot that protects servers against nukes, raids and abuse, plus the web and desktop tools that communities and teams rely on.
 
 I'm studying for a BCA in Cybersecurity at Kristu Jayanti College. It shapes how I write code: checks happen on the server, every action is logged, and inputs are treated as untrusted.
 
@@ -34,9 +34,17 @@ I'm studying for a BCA in Cybersecurity at Kristu Jayanti College. It shapes how
 
 ---
 
-### FiveM
+### Servers I've built
 
-**Helix Roleplay**: a FiveM roleplay server I built.
+| Server | Platform |
+|---|---|
+| **Helix Roleplay** | FiveM (GTA V) |
+| **Vagos Roleplay** | FiveM (GTA V) |
+| **Zamorin Roleplay** | RedM (Red Dead Redemption 2) |
+
+---
+
+### Madura Scripts: FiveM
 
 **Madura Scripts** is my resource catalogue. Each resource detects the framework automatically, uses ox_lib, and ships with an in-game admin or editor panel where it makes sense.
 
