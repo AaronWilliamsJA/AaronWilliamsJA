@@ -14,7 +14,7 @@
 
 ### About
 
-I run development at **Build Right Studios** in Bangalore. I've built three roleplay servers: **Helix Roleplay** and **Vagos Roleplay** on FiveM, and **Zamorin Roleplay** on RedM. Most of my work now is **Madura Scripts**, a catalogue of 50+ FiveM resources for Qbox, QBCore and ESX servers. Alongside that I build Discord bots, including **Flawless Bot**, a security bot that protects servers against nukes, raids and abuse, plus the web and desktop tools that communities and teams rely on.
+I run development at **Build Right Studios** in Bangalore. I've built seven game servers across roleplay, PvP and cinematics on FiveM and RedM, including **Nomix Roleplay**, a high-end US-based server. Most of my work now is **Madura Scripts**, a catalogue of 50+ FiveM resources for Qbox, QBCore and ESX servers. Alongside that I build Discord bots, including **Flawless Bot**, a security bot that protects servers against nukes, raids and abuse, plus the web and desktop tools that communities and teams rely on.
 
 I study Cybersecurity at Kristu Jayanti College. I'm dedicated to the field: I work with the latest vulnerabilities and learn something new every day.
 
@@ -36,11 +36,15 @@ I study Cybersecurity at Kristu Jayanti College. I'm dedicated to the field: I w
 
 ### Servers I've built
 
-| Server | Platform |
-|---|---|
-| **Helix Roleplay** | FiveM (GTA V) |
-| **Vagos Roleplay** | FiveM (GTA V) |
-| **Zamorin Roleplay** | RedM (Red Dead Redemption 2) |
+| Server | Platform | What it is |
+|---|---|---|
+| **Helix Roleplay** | FiveM (GTA V) | A roleplay server. |
+| **Vagos Roleplay** | FiveM (GTA V) | A roleplay server with its own custom scripts and UI tools. |
+| **Zamorin Roleplay** | RedM (Red Dead Redemption 2) | A roleplay server. |
+| **Nomix Roleplay** | FiveM (GTA V) | A high-end, US-based roleplay server with next-level custom in-game screens and menus (NUI systems). |
+| **Vortex PvP** | FiveM (GTA V) | A PvP server optimised for smooth gameplay, with deathmatch and room match modes. |
+| **Vampires PvP** | FiveM (GTA V) | A PvP server built around turf systems, where players fight to capture and hold territory. |
+| **Ash FiveM Cinematics** | FiveM (GTA V) | A next-level cinematic server for making high-quality videos, with DLSS support, high-end recording and a built-in in-game recorder. |
 
 ---
 
