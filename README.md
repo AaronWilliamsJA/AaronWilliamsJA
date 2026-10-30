@@ -14,9 +14,9 @@
 
 ### About
 
-I run development at **Build Right Studios** in Bangalore. I've built three roleplay servers: **Helix Roleplay** and **Vagos Roleplay** on FiveM, and **Zamorin Roleplay** on RedM. Most of my work now is **Madura Scripts**, a catalogue of 50+ FiveM resources for Qbox, QBCore and ESX servers. Alongside that I build Discord bots, including **Flawless**, a security bot that protects servers against nukes, raids and abuse, plus the web and desktop tools that communities and teams rely on.
+I run development at **Build Right Studios** in Bangalore. I've built three roleplay servers: **Helix Roleplay** and **Vagos Roleplay** on FiveM, and **Zamorin Roleplay** on RedM. Most of my work now is **Madura Scripts**, a catalogue of 50+ FiveM resources for Qbox, QBCore and ESX servers. Alongside that I build Discord bots, including **Flawless Bot**, a security bot that protects servers against nukes, raids and abuse, plus the web and desktop tools that communities and teams rely on.
 
-I'm studying for a BCA in Cybersecurity at Kristu Jayanti College. It shapes how I write code: checks happen on the server, every action is logged, and inputs are treated as untrusted.
+I study Cybersecurity at Kristu Jayanti College. I'm dedicated to the field: I work with the latest vulnerabilities and learn something new every day.
 
 - **Now:** shipping new Madura resources: dispatch, garage, crafting, DMV school and server stats
 - **Open source:** contributing fixes back to [Qbox](https://github.com/Qbox-project)
@@ -28,7 +28,7 @@ I'm studying for a BCA in Cybersecurity at Kristu Jayanti College. It shapes how
 
 | Project | What I did |
 |---|---|
-| [Qbox-project/qbx_management](https://github.com/Qbox-project/qbx_management/pull/97) | PR #97: fixes the boss menu `[E]` prompt not showing after a player joins until the resource is restarted. Zones are now built once the character loads, and the boss check is nil-safe. |
+| [Qbox-project/qbx_management](https://github.com/Qbox-project/qbx_management/pull/97) | Fixes a boss menu bug in Qbox, an open-source roleplay framework for FiveM ([PR #97](https://github.com/Qbox-project/qbx_management/pull/97)). My resources run on the three main FiveM frameworks: Qbox, ESX and QBCore. |
 | [JD_logsV3 Redesigned](https://github.com/AaronWilliamsJA/JD_logsV3-Redesigned) | A rebuild of JD_logs. It logs joins, chat, deaths, shooting, explosions, txAdmin actions and custom events from FXServer to Discord. |
 | [Madura WindowsLogger](https://github.com/AaronWilliamsJA/Madura_WindowsLogger) | Watches a folder on Windows, records every file added, changed or deleted, and shows the changes live on a web page. |
 
@@ -70,7 +70,7 @@ They also cover HUDs, a pause menu, loading screens, chat, scoreboards, a killfe
 | Project | Stack | What it is |
 |---|---|---|
 | **Flawless Bot** | discord.js v14 · SQLite | A Discord security bot. Anti-nuke stops mass bans, channel deletes and permission abuse, auto-mod handles spam and raids, and backups restore a server's structure. It also tracks invites on a leaderboard. |
-| **BRS Pager** | React · FastAPI · PostgreSQL (Supabase) · LiveKit · Electron | Team paging with pages that ring every device, escalation, incidents, chat and voice channels, and a supervisor console. |
+| **BRS Pager System** | React · FastAPI · PostgreSQL (Supabase) · LiveKit · Electron | Team paging with pages that ring every device, escalation, incidents, chat and voice channels, and a supervisor console. |
 | **Synapse News** | Node.js · Socket.io · SQLite FTS5 · Gemini | A live news aggregator across six channels, with AI summaries, a budget guard, circuit breakers and a paid API tier. |
 | **Build Right Studios website** | Astro · Tailwind CSS | The studio site, with project case studies, Tebex sale alerts and a spam-protected contact form. |
 | **Yapp** | React Native (Expo) · Gemini · Whisper · Supabase | A voice-to-task mobile app that syncs in real time. |
