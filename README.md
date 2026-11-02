@@ -16,7 +16,7 @@
 
 I run development at **Build Right Studios** in Bangalore. I've built seven game servers across roleplay, PvP and cinematics on FiveM and RedM, including **Nomix Roleplay**, a high-end US-based server. Most of my work now is **Madura Scripts**, a catalogue of 50+ FiveM resources for Qbox, QBCore and ESX servers. Alongside that I build Discord bots, including **Flawless Bot**, a security bot that protects servers against nukes, raids and abuse, plus the web and desktop tools that communities and teams rely on.
 
-I study Cybersecurity at Kristu Jayanti College. I'm dedicated to the field: I work with the latest vulnerabilities and learn something new every day.
+I'm dedicated to cybersecurity: I work with the latest vulnerabilities and learn something new every day.
 
 - **Now:** shipping new Madura resources: dispatch, garage, crafting, DMV school and server stats
 - **Open source:** contributing fixes back to [Qbox](https://github.com/Qbox-project)
