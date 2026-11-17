@@ -1,10 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1f2e&height=160&section=header&text=Aaron%20Williams%20JA&fontSize=42&fontColor=E6EDF3&fontAlignY=42&desc=Founder%20%26%20Lead%20Developer%20%E2%80%94%20Build%20Right%20Studios&descSize=16&descAlignY=68&descColor=FF4B4B" />
+<img width="100%" src="./assets/banner.svg" alt="Aaron Williams JA, Founder & Lead Developer at Build Right Studios" />
 
 **FiveM & RedM Server Developer · Full Stack Developer · BCA Cybersecurity student**
 
 [![Website](https://img.shields.io/badge/Website-aaronwilliams.in-0d1117?style=flat-square&logo=googlechrome&logoColor=FF4B4B)](https://www.aaronwilliams.in)
+[![Studio](https://img.shields.io/badge/Studio-buildrightstudios.com-0d1117?style=flat-square&logo=googlechrome&logoColor=FF4B4B)](https://buildrightstudios.com)
 [![Email](https://img.shields.io/badge/Email-aaronwilliams.ja%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=FF4B4B)](mailto:aaronwilliams.ja@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron%20Williams%20JA-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-williams-ja-125a10331/)
 
@@ -18,9 +19,9 @@ I run development at **Build Right Studios** in Bangalore. I've built seven game
 
 I'm dedicated to cybersecurity: I work with the latest vulnerabilities and learn something new every day.
 
-- **Now:** shipping new Madura resources: dispatch, garage, crafting, DMV school and server stats
+- **Now:** shipping new Madura resources: HUD, notifications, 3D waypoints with GPS routing, carry, and a monochrome ox_lib reskin
 - **Open source:** contributing fixes back to [Qbox](https://github.com/Qbox-project)
-- **Portfolio:** [aaronwilliams.in](https://www.aaronwilliams.in)
+- **Portfolio:** [aaronwilliams.in](https://www.aaronwilliams.in) · **Studio:** [buildrightstudios.com](https://buildrightstudios.com)
 
 ---
 
@@ -62,10 +63,16 @@ I'm dedicated to cybersecurity: I work with the latest vulnerabilities and learn
 | **Madura Admin Commands** | 127 admin commands with radius, all, job and multi-player targeting. |
 | **Madura UI** | A soft-glass UI kit that also stands in for ps-ui, bl_ui, ox_lib, qb-menu and the esx UIs. |
 | **Madura MiniGames** | A standalone pack of 30 minigames with an export API. |
+| **Madura HUD** | A player status HUD. |
+| **Madura Notify** | A clean, customisable standalone notification system. |
+| **Madura Waypoint** | 3D custom waypoints with live GPS routing, in V1 Lite and V2 Pro Navigation. |
+| **Madura Carry** | Carrying with consent dialogs, third-eye targeting and Discord logs. |
+| **Madura OxLib Redesign** | "Mono Soft", a monochrome reskin of ox_lib v3.39.0. |
+| **Madura Vehicle Wipe** | A timed server-side wipe of empty vehicles with warnings, Discord logs and an admin panel. |
 | **Madura XP System** | Levelling with an XP ring HUD and an animated level-up card. |
 | **Madura Rental V2 · Taxi Job · DMV School** | Job and service systems for Qbox using ox_target and lation_ui. |
 
-They also cover HUDs, a pause menu, loading screens, chat, scoreboards, a killfeed, carry, safezones, waypoints, hunting, a vehicle wipe, a recoil system and more.
+They also cover HUDs, a pause menu, loading screens, chat, scoreboards, a killfeed, safezones, hunting, an ID card for Qbox, a recoil system and more.
 
 ---
 
@@ -76,12 +83,13 @@ They also cover HUDs, a pause menu, loading screens, chat, scoreboards, a killfe
 | **Flawless Bot** | discord.js v14 · SQLite | A Discord security bot. Anti-nuke stops mass bans, channel deletes and permission abuse, auto-mod handles spam and raids, and backups restore a server's structure. It also tracks invites on a leaderboard. |
 | **BRS Pager System** | React · FastAPI · PostgreSQL (Supabase) · LiveKit · Electron | Team paging with pages that ring every device, escalation, incidents, chat and voice channels, and a supervisor console. |
 | **Synapse News** | Node.js · Socket.io · SQLite FTS5 · Gemini | A live news aggregator across six channels, with AI summaries, a budget guard, circuit breakers and a paid API tier. |
-| **Build Right Studios website** | Astro · Tailwind CSS | The studio site, with project case studies, Tebex sale alerts and a spam-protected contact form. |
-| **Yapp** | React Native (Expo) · Gemini · Whisper · Supabase | A voice-to-task mobile app that syncs in real time. |
+| **[buildrightstudios.com](https://buildrightstudios.com)** | Astro · Tailwind CSS | The studio site, SEO-first and static, with project case studies, Tebex sale alerts and a spam-protected contact form. |
+| **Yapp** | React Native (Expo) · Gemini · Deepgram/Whisper · Supabase | A voice-to-task mobile app that syncs in real time. |
 | **VOX Assistant** | Python · faster-whisper · PySide6 | Push-to-talk speech-to-text that types into any Windows app. |
 | **BRS Notify** | TypeScript · discord.js | Twitch, YouTube and Kick alerts posted to Discord with rich embeds. |
+| **BRS Community Bot** | Node.js · discord.js v14 | The Build Right Studios community bot, ported from discord.py. |
 | **BRS Music Bot** | discord.js v14 · Lavalink v4 | A slash-command music bot. |
-| **aaronwilliams.in** | React · TanStack Start · Tailwind CSS | My portfolio. |
+| **aaronwilliams.in** | React · TanStack Start · Tailwind CSS | My portfolio, with a contact form that posts to Discord. |
 
 ---
 
@@ -118,8 +126,9 @@ They also cover HUDs, a pause menu, loading screens, chat, scoreboards, a killfe
 ### GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AaronWilliamsJA&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E6EDF3&icon_color=FF4B4B&text_color=8B949E&hide_rank=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AaronWilliamsJA&layout=compact&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=8B949E&langs_count=6" />
+<img src="https://streak-stats.demolab.com?user=AaronWilliamsJA&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF4B4B&fire=FF4B4B&currStreakLabel=FF4B4B" alt="GitHub streak" />
+<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AaronWilliamsJA&bg_color=0d1117&color=8B949E&line=FF4B4B&point=E6EDF3&area=true&hide_border=true" alt="Contribution graph" />
 </div>
 
 ---
@@ -128,6 +137,6 @@ They also cover HUDs, a pause menu, loading screens, chat, scoreboards, a killfe
 
 **Open to work on FiveM systems, Discord tooling and real-time web apps.**
 <br/>
-[aaronwilliams.in](https://www.aaronwilliams.in) · [aaronwilliams.ja@gmail.com](mailto:aaronwilliams.ja@gmail.com)
+[aaronwilliams.in](https://www.aaronwilliams.in) · [buildrightstudios.com](https://buildrightstudios.com) · [aaronwilliams.ja@gmail.com](mailto:aaronwilliams.ja@gmail.com)
 
 </div>
